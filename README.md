@@ -81,7 +81,10 @@
     Conclusion :
       The task successfully implemented a user-based recommendation system, which predicts and
       recommends movies based on the ratings of similar users.
-    
-    
+
+
+# Output:
+
+![Image](https://github.com/user-attachments/assets/1df52533-6db2-4792-b508-92b640800fa9)
     
 
